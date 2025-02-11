@@ -1,34 +1,26 @@
 package dev.book;
 
-import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.util.List;
-
 public class BookList {
-	private static final String RESOURCES = "src/main/resources/";
-	
-	public static void main(String[] args) {
+    private String title;
+    private String author;
+    private String callNumber;
+    private String category;
 
-			final Path path = Paths.get(RESOURCES + "library_books_en.txt");
-			System.out.println(path);
-			
-			try {
-				List<String> lines = Files.readAllLines(path);
-				
-				if (lines.isEmpty()) {
-					System.out.println("해당 도서가 존재하지 않습니다.");
-					return;	
-				}
-				
-				System.out.println(lines);
-			
-			} catch (IOException e) {
-				
-				e.printStackTrace();
-			}
-			
-	}
+    public BookList(String title, String author, String callNumber, String category) {
+        this.title = title;
+        this.author = author;
+        this.callNumber = callNumber;
+        this.category = category;
+    }
 
+    public String getTitle() { return title; }
+    public String getAuthor() { return author; }
+    public String getCallNumber() { return callNumber; }
+    public String getCategory() { return category; }
+
+    @Override
+    public String toString() {
+        return String.format("제목: %s | 저자: %s | 청구번호: %s | 카테고리: %s",
+                title, author, callNumber, category);
+    }
 }
