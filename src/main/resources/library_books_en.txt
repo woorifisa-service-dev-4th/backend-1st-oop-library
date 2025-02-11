@@ -1,0 +1,101 @@
+Book Title,Author,Call Number,Category
+Python Basics,Sophia Harris,181.14.8,Cybersecurity
+Effective Java,John Smith,163.90.4,Software Development
+The Pragmatic Programmer,Jessica Davis,674.63.6,Artificial Intelligence
+The Pragmatic Programmer,David Wilson,743.14.2,Machine Learning
+Artificial Intelligence,John Smith,624.82.4,Software Development
+Machine Learning Guide,Emily Johnson,920.79.9,Algorithms
+Machine Learning Guide,Emily Johnson,860.24.6,Computer Science
+Artificial Intelligence,Sarah Martinez,191.45.5,Machine Learning
+Python Basics,John Smith,489.61.2,Algorithms
+Java Programming,Emily Johnson,177.79.2,Software Development
+Clean Code,Michael Brown,560.41.2,Programming Languages
+Algorithms Explained,David Wilson,455.55.5,Web Development
+Java Programming,James Anderson,129.18.7,Machine Learning
+Clean Code,David Wilson,151.23.9,Algorithms
+Clean Code,Michael Brown,550.59.3,Programming Languages
+Java Programming,Laura Thomas,569.56.6,Data Science
+Algorithms Explained,James Anderson,648.44.6,Data Science
+Python Basics,Michael Brown,410.10.2,Artificial Intelligence
+Data Science Handbook,Sophia Harris,888.55.3,Software Development
+Data Science Handbook,Sarah Martinez,732.33.8,Data Science
+Algorithms Explained,Laura Thomas,317.49.7,Artificial Intelligence
+Data Science Handbook,Laura Thomas,275.83.2,Computer Science
+Design Patterns,Michael Brown,248.24.8,Software Development
+Data Science Handbook,John Smith,770.71.2,Artificial Intelligence
+Design Patterns,John Smith,225.50.5,Software Development
+Data Science Handbook,Jessica Davis,290.57.3,Web Development
+Java Programming,Laura Thomas,793.48.2,Software Development
+The Pragmatic Programmer,Michael Brown,716.16.2,Data Science
+Python Basics,Laura Thomas,612.37.9,Mobile Development
+Machine Learning Guide,Emily Johnson,449.43.9,Machine Learning
+Clean Code,Sophia Harris,492.34.8,Cybersecurity
+Python Basics,Sophia Harris,616.95.1,Programming Languages
+Algorithms Explained,Emily Johnson,562.63.2,Artificial Intelligence
+Artificial Intelligence,Michael Brown,888.37.9,Software Development
+Design Patterns,James Anderson,786.15.4,Machine Learning
+Python Basics,Emily Johnson,850.54.5,Data Science
+Artificial Intelligence,James Anderson,423.85.1,Web Development
+Python Basics,Sophia Harris,413.70.8,Machine Learning
+Effective Java,James Anderson,969.93.4,Programming Languages
+Design Patterns,Laura Thomas,757.89.4,Data Science
+Machine Learning Guide,David Wilson,779.68.4,Software Development
+Data Science Handbook,Emily Johnson,772.37.5,Data Science
+Algorithms Explained,David Wilson,340.81.5,Artificial Intelligence
+Data Science Handbook,Sarah Martinez,372.52.2,Data Science
+Effective Java,Daniel White,862.26.8,Mobile Development
+Python Basics,David Wilson,642.90.7,Programming Languages
+Python Basics,Laura Thomas,145.31.3,Programming Languages
+Data Science Handbook,Emily Johnson,882.33.4,Data Science
+Clean Code,Emily Johnson,726.29.7,Machine Learning
+Java Programming,David Wilson,503.34.5,Software Development
+Java Programming,Jessica Davis,181.22.8,Artificial Intelligence
+Effective Java,Michael Brown,498.89.6,Programming Languages
+Algorithms Explained,Jessica Davis,683.86.5,Machine Learning
+The Pragmatic Programmer,Michael Brown,837.40.8,Data Science
+Clean Code,Emily Johnson,779.61.3,Software Development
+Machine Learning Guide,Jessica Davis,973.21.5,Web Development
+Artificial Intelligence,Sophia Harris,297.38.8,Cybersecurity
+Effective Java,John Smith,508.76.3,Machine Learning
+Artificial Intelligence,James Anderson,343.73.2,Software Development
+Artificial Intelligence,Daniel White,385.40.8,Computer Science
+Machine Learning Guide,Emily Johnson,810.49.3,Algorithms
+Artificial Intelligence,Sophia Harris,907.72.4,Mobile Development
+Design Patterns,David Wilson,498.89.6,Machine Learning
+Clean Code,Daniel White,876.56.2,Web Development
+Artificial Intelligence,Emily Johnson,675.79.7,Mobile Development
+Java Programming,Laura Thomas,181.95.7,Software Development
+Java Programming,Sophia Harris,701.57.2,Machine Learning
+Artificial Intelligence,James Anderson,938.31.4,Data Science
+Effective Java,Sarah Martinez,878.31.2,Computer Science
+The Pragmatic Programmer,Jessica Davis,579.58.1,Computer Science
+Artificial Intelligence,David Wilson,946.71.9,Web Development
+Clean Code,James Anderson,994.27.2,Programming Languages
+Artificial Intelligence,David Wilson,840.56.3,Artificial Intelligence
+Artificial Intelligence,Sarah Martinez,434.86.2,Data Science
+The Pragmatic Programmer,Sophia Harris,626.70.8,Cybersecurity
+The Pragmatic Programmer,Daniel White,884.63.3,Algorithms
+Effective Java,John Smith,252.41.1,Computer Science
+Python Basics,Jessica Davis,292.34.5,Web Development
+Effective Java,Sophia Harris,341.40.1,Algorithms
+Clean Code,Laura Thomas,114.59.2,Computer Science
+Java Programming,John Smith,876.95.8,Web Development
+The Pragmatic Programmer,Laura Thomas,345.10.1,Mobile Development
+Clean Code,Emily Johnson,886.24.6,Cybersecurity
+Design Patterns,Emily Johnson,817.98.2,Data Science
+Data Science Handbook,Sarah Martinez,204.72.5,Machine Learning
+The Pragmatic Programmer,David Wilson,576.28.9,Computer Science
+Java Programming,Michael Brown,529.43.9,Algorithms
+Java Programming,Daniel White,800.19.5,Cybersecurity
+Artificial Intelligence,Emily Johnson,264.82.3,Machine Learning
+Design Patterns,Emily Johnson,569.26.1,Artificial Intelligence
+Algorithms Explained,Emily Johnson,294.60.4,Computer Science
+Machine Learning Guide,Emily Johnson,678.46.6,Software Development
+Effective Java,Daniel White,685.73.2,Data Science
+Artificial Intelligence,Laura Thomas,956.13.5,Software Development
+The Pragmatic Programmer,Jessica Davis,280.38.7,Web Development
+Clean Code,David Wilson,850.44.9,Cybersecurity
+Effective Java,Jessica Davis,966.13.3,Computer Science
+Python Basics,Daniel White,601.73.2,Mobile Development
+Data Science Handbook,David Wilson,395.32.7,Cybersecurity
+Machine Learning Guide,James Anderson,782.19.7,Data Science
